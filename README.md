@@ -15,5 +15,5 @@ To get started with this project, follow these steps:
 
 1. **Clone the Repository**:
 
-   git clone https://github.com/pranayboda/Blood-Donation-and-Management-System.git
+   git clone https://github.com/pranayboda/Blood-Donation-and-ManagementSystem.git
    Start the Development Server:  npm run dev
